@@ -302,6 +302,20 @@ h4{
     padding: 4px 0;
 }
 
+.footer .container a{
+    padding: 4px 0;
+    color: #CCC;
+}
+
+.footer .container a:hover{
+    color: #FF6634;
+}
+
+.connect{
+    display: flex;
+    flex-direction: column;
+}
+
 .enroll-inform input{
     width: 300px;
     padding: 8px;
